@@ -10,4 +10,4 @@
 - I know 🇷🇺Russian and 🇺🇸English
 
 About my character: Not much of a friendly person, I prefer to be alone.
-![sparkling water animation](https://media.tenor.com/Q2m92XARkTwAAAPo/bubbles-my.mp4)
+![sparkling water animation](https://media.tenor.com/Q2m92XARkTwAAAAd/bubbles-my.gif)
