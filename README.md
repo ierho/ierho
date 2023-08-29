@@ -2,8 +2,8 @@
 ## Hi there 👋
 ### I am
 - Python3 developer
-- Linux user
-- A bit familiar with other languages like C++, C# in unity, BASH and HTML&CSS ***(HyperText Markup Language, it's said in the name, is there "programming language" anywhere in that text?)***
+- Linux mint xfce user, I hadn't used Windows for years
+- A bit familiar with other languages like C++, C# in unity, BASH and HTML&CSS ***(for those who are mad at me for saying "language". HyperText Markup Language, it's said in the name, is there "programming language" anywhere in this line?)***
 - Learning django
 - Familiar with Keras and numpy
 - `discord.py` bot developer *(I won't make bots for other people or myself, I stopped using discord)*
