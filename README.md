@@ -1,18 +1,19 @@
 # IERHON
-## Hi there 👋
-### I am
-- Python3 developer
-- Linux mint xfce user, I hadn't used Windows for years
-- A bit familiar with other languages like C++, C# in unity, BASH and HTML&CSS ***(for those who are mad at me for saying "language". HyperText Markup Language, it's said in the name, is there "programming language" anywhere in this line?)***
-- Learning django
-- Familiar with Keras and numpy
-- `discord.py` bot developer *(I won't make bots for other people or myself, I stopped using discord)*
-- I know 🇷🇺Russian and 🇺🇸English
+## Я:
+- Python3 разработчик
+- Чуть чуть пишу на разных языках как C++, C, C# на unity, немного пробовал программировать на BASH а также немного HTML и CSS. Немного изучал IT безопасность, пока не особо много про это знаю но уже пытаюсь делать код более безопасным.
+- Пользуюсь Linux mint xfce. Windows пару раз в жизни использовал, мало о нём знаю.
+- FOSS = 👍
+- Для разговоров использую Element.
+- Изучаю django
+- Также программирую с keras и numpy.
+- Делал ботов на `discord.py`. (Теперь перестал)
+- Хорошо знаю два языка: 🇷🇺Русский и 🇺🇸English
+- Работаю в проектах как `risticks.xyz` и ByteSoft.
+- Уже создавал свои проекты с монетизацией как Снэпи. Discord: https://discord.gg/6XDJzgbEet Element: https://app.element.io/#/room/#snepi:matrix.org
 
-Some people call me shortly: 
-- Ier (Russian - Иер)
-- honya (Russian - хоня) (based on ier**honya**. Russian - основано на иер**хоня**)
+Меня часто коротко зовут:
+- "Иер"
+- Некоторые мне дали кличку "хоня", без моего согласия конечно.
 
-`(last)` **Which is a nickname that wasn't made by me and I don't like it**, even though I don't care much if I'm called so. At first I couldn't even figure out who is that referring to.
-
-About my character: Not much of a friendly person, I mostly prefer to be alone. Not an introvert, no social phobia, I just have no social skills. And I am not much afraid of anything, in most situations I have no emotions or reaction at all, so I could block people for the reason that *I don't need to talk that person anymore, and I don't care about him messaging back*, this actually happens sometimes. Also I'd rather be rude than lie (I still don't understand why it's "rude" if I say the truth in some cases).
+Мой характер: Я социофоб и интроверт. Интересуюсь многими вещами как квантовые компьютеры, космос, сознание и так далее. Предпочитаю решать многое необычными путями (не про веб разработку). Среди людей могу в некоторых случаях быть очень надоедливым, если это проблема **то просто скажите мне об этом**. Темперамент у меня флегматик, тоесть очень долго думаю над решением задач, постоянное нейтральное настроение которое практически никогда не меняется. Часто считаю игры, фильмы, социальные сети и похожее простой тратой времени. Пытаюсь быть толерантным. Для меня рассизм, нацизм показывает только то что человек глупый, по тому что самое важное у человека ум, а не то в каких он условиях.
